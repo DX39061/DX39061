@@ -6,7 +6,7 @@
 
 - Learning: binary security & web developing & Devops
 
-- Blog: [DX3906's blog](https://blog.dx39061.xyz)
+- Blog: [DX3906's blog](https://blog.dx39061.top)
 
 - email: 21009201351@stu.xidian.edu.cn
 
