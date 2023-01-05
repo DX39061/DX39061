@@ -8,7 +8,7 @@
 
 - Blog: [DX3906's blog](https://blog.dx39061.top)
 
-- email: 21009201351@stu.xidian.edu.cn
+- email: dx390611@gmail.com
 
 
 吾辈所赴，是为星辰大海
